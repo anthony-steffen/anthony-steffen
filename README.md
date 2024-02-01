@@ -1,4 +1,7 @@
 <div align="center">
+  <img src='https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/main/assets/Git-Profile.png' alt="Profile Image" align="center" style="max-width: 20%; height: auto;" />
+</div><br>
+<div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_anthony.steffen_)
 [![Linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-steffen-dev/)
@@ -7,13 +10,9 @@
 
 </div>
 
-<div align="center">
-  <img src='https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/main/assets/Git-Profile.png' alt="Profile Image" align="center" style="max-width: 30%; height: auto; margin-right: 20px;" />
-</div>
-
 ## <div align="center">Bem vindo ao meu perfil.🖐️</div>
 
-<div align="center">
+<div align="left">
 <p> Me chamo Anthony, sou desenvolvedor web full-stack comprometido, proativo e apaixonado pelo que faço.<br>
 Proficiente em tecnologias como JavaScript, MySQL, Docker, React, TypeScript. <br>
 Habilidade na utilização de metodologias ágeis usando Trello, e aptidão em controle de versionamento com GitHub.<br>
@@ -36,9 +35,11 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub Pages e
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=anthony-steffen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-steffen&layout=compact&langs_count=10&theme=dark"/>  
 <div align="center"><br>
+</div><br>
+
+<div align="center">
 <h1> Tecnologias que trabalho  
 </div>
-
 <table><tr><td valign="top" align="center" width="33%">
 
 ## Frontend
