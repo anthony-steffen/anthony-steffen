@@ -3,13 +3,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_anthony.steffen_)
 [![Linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-steffen-dev/)
 [![Twiter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/4nth0ny_Steffen)
-  <a href="mailto:anthony.steffen@outlook.com.br" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank" ></a>  
-</div>  
+<a href="mailto:anthony.steffen@outlook.com.br" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank" ></a>
+
+</div>
 
 <div align="center">
-  <img src='../anthony-steffen/assets/Git-Profile.png' alt="Profile Image" align="center" style="max-width: 30%; height: auto; margin-right: 20px;" />
+  <img src='../anthony-steffen/Git-Profile.png' alt="Profile Image" align="center" style="max-width: 30%; height: auto; margin-right: 20px;" />
 </div>
-  
+
 ## <div align="center">Bem vindo ao meu perfil.🖐️</div>
 
 <div align="center">
@@ -20,15 +21,14 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub Pages e
 </div>
 <br>
 
-- 🔭 Atualmente estou trabalhando no [My-Finance-App](https://github.com/anthony-steffen/my-finance-app)  
-  
-- 🌱 Atualmente estou aprendendo AWS e Python  
-  
+- 🔭 Atualmente estou trabalhando no [My-Finance-App](https://github.com/anthony-steffen/my-finance-app)
+- 🌱 Atualmente estou aprendendo AWS e Python
 - 📫 Como entrar em contato? E-mail: <anthony.steffen@outlook.com.br>
-  
+
 <br/>
 
-## Github Stats  
+## Github Stats
+
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
 
 <!-- GITHUB STATUS -->
@@ -41,7 +41,7 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub Pages e
 
 <table><tr><td valign="top" align="center" width="33%">
 
-## Frontend  
+## Frontend
 
 <div align="center">  
 <p align="center">
@@ -61,7 +61,7 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub Pages e
 
 </td><td valign="top" align="center" width="33%">
 
-## Backend  
+## Backend
 
 <div align="center">  
 <p align="center">
@@ -76,14 +76,13 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub Pages e
 
 </td><td valign="top" align="center" width="33%">
 
-## Outras  
+## Outras
 
 <div align="center">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="width: 50px"/>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<img src="../anthony-steffen/assets/Vercel.png" style="width: 80px ; margin: 10px">
+<img src="../anthony-steffen/Vercel.png" style="width: 80px ; margin: 10px">
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" style="width: 80px"/>
 </div>
-</td></tr></table>  
-  
+</td></tr></table>
