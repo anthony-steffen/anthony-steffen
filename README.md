@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/main/assets/Git-Profile.png' alt="Profile Image" align="center" style="max-width: 20%; height: auto;" />
+  <img src='https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/main/assets/Git-Profile.png' alt="Profile Image" align="center" style="max-width: 10%; height: auto;" />
 </div><br>
 <div align="center">
 
