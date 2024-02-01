@@ -1,14 +1,6 @@
-<div align="center">
-  <img src='https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/main/assets/Git-Profile.png' alt="Profile Image" align="center" style="max-width: 10%; height: auto;" />
-</div><br>
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_anthony.steffen_)
-[![Linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-steffen-dev/)
-[![Twiter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/4nth0ny_Steffen)
-<a href="mailto:anthony.steffen@outlook.com.br" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank" ></a>
-
-</div>
+<!-- <div align="center">
+  <img src='https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/main/assets/Git-Profile.png' alt="Profile Image" align="center" style="max-width: 5%; height: auto;" />
+</div><br> -->
 
 ## <div align="center">Bem vindo ao meu perfil.🖐️</div>
 
@@ -20,11 +12,26 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub Pages e
 </div>
 <br>
 
-- 🔭 Atualmente estou trabalhando no [My-Finance-App](https://github.com/anthony-steffen/my-finance-app)
-- 🌱 Atualmente estou aprendendo AWS e Python
-- 📫 Como entrar em contato? E-mail: <anthony.steffen@outlook.com.br>
+- 🔭 <a href="">
+  <img src="https://img.shields.io/badge/Trabalhando%20em-My%20Finance%20App-blue?style=flat&logo=react&logoColor=white&color=cyan" alt="Trabalhando em My-Finance-App">
+  </a>
 
-<br/>
+<p style="margin-left:25px"> Utilizando:
+<img src="https://devicon-website.vercel.app/api/javascript/original.svg" style="margin-left:5px; width:20px"/>
+<img src="https://devicon-website.vercel.app/api/react/original.svg" style=" ; width:20px"/>
+<img src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg" style="width:20px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="width: 20px"/>
+<img src="https://skillicons.dev/icons?i=github" style="width:20px"/>
+<img src="https://skillicons.dev/icons?i=vite" style="width:20px"/>
+<img src="https://skillicons.dev/icons?i=jest" style="width:20px"/>
+</p>
+
+- 🌱 <a href="#" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Atualmente Aprendendo-AWS%20e%20Python-blue?style=flat&logo=amazon-aws&logoColor=white&color=232F3E" alt="Aprendendo AWS e Python">
+  </a>
+- 📫 <a href="mailto:anthony.steffen@outlook.com.br" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Como entrar em contato-%20Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white&color=0078D4" alt="Como entrar em contato">
+  </a>
 
 ## Github Stats
 
@@ -37,6 +44,21 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub Pages e
 <div align="center"><br>
 </div><br>
 
+<div align="center">
+
+## Conecte-se comigo
+
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anthony.steffen.7/)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584991423988&text=Ol%C3%A1%2C%20Anthony%20Steffen%20!)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_anthony.steffen_)
+[![Linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-steffen-dev/)
+[![Twiter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/4nth0ny_Steffen)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anthony.steffen@outlook.com.br)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonysteffen.developer@gmail.com)
+
+</div>
 <div align="center">
 <h1> Tecnologias que trabalho  
 </div>
