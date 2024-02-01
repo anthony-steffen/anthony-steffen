@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src='../anthony-steffen/Git-Profile.png' alt="Profile Image" align="center" style="max-width: 30%; height: auto; margin-right: 20px;" />
+  <img src='https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/main/assets/Git-Profile.png' alt="Profile Image" align="center" style="max-width: 30%; height: auto; margin-right: 20px;" />
 </div>
 
 ## <div align="center">Bem vindo ao meu perfil.🖐️</div>
@@ -81,7 +81,7 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub Pages e
 <div align="center">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="width: 50px"/>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<img src="../anthony-steffen/Vercel.png" style="width: 80px ; margin: 10px">
+<img src="https://github.com/anthony-steffen/anthony-steffen/blob/main/assets/Vercel.png?raw=true" style="width: 80px ; margin: 10px">
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" style="width: 80px"/>
 </div>
