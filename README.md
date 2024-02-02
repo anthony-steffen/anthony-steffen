@@ -20,7 +20,7 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 <img src="https://skillicons.dev/icons?i=vite" style="width:20px"/>
 <img src="https://skillicons.dev/icons?i=jest" style="width:20px"/>
 
-🌱 <a href="#" ></a>
+🌱
 <img src="https://img.shields.io/badge/Atualmente Aprendendo-AWS%20e%20Python-blue?style=flat&logo=amazon-aws&logoColor=white&color=232F3E" alt="Aprendendo AWS e Python">
 
 📫 <a href="mailto:anthony.steffen@outlook.com.br"></a>
@@ -28,10 +28,11 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 
 </div>
 
-<!-- GITHUB STATUS -->
+<!-- GITHUB STATUS
+
 <div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=anthony-steffen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-steffen&layout=compact&langs_count=10&theme=dark"/>  
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-steffen&layout=compact&langs_count=10&theme=dark"/>
 <div align="center"><br>
 </div><br>
 
@@ -44,7 +45,7 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 
 ### Frontend
 
-<div align="center">  
+<div align="center">
 <img src="https://devicon-website.vercel.app/api/javascript/original.svg"style="margin: 10px ; width:50px"/>
 <img src="https://devicon-website.vercel.app/api/typescript/original.svg"style="margin: 10px ; width:50px"/>
 <img src="https://devicon-website.vercel.app/api/react/original.svg" style="margin: 10px ; width:50px"/>
@@ -63,7 +64,7 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 
 ### Backend
 
-<div align="center">  
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" style="width: 50px ; margin: 10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width: 50px ; margin: 10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width: 50px ; margin: 10px"/>
@@ -76,11 +77,11 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 
 ### Outras
 
-<div align="center">  
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="width: 50px"/>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.linux.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 <img src="https://github.com/anthony-steffen/anthony-steffen/blob/main/assets/Vercel.png?raw=true" style="width: 80px ; margin: 10px">
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://github.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" style="width: 80px"/>
 </div>
 </td></tr></table>
@@ -97,4 +98,4 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584991423988&text=Ol%C3%A1%2C%20Anthony%20Steffen%20!)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anthony-steffen)
 
-</div>
+</div> -->
