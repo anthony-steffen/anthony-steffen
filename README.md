@@ -4,12 +4,13 @@
 <p align="center"> Me chamo Anthony, sou desenvolvedor web full-stack comprometido, proativo e apaixonado pelo que faço.<br>
 Proficiente em tecnologias como JavaScript, MySQL, Docker, React, TypeScript. <br>
 Habilidade na utilização de metodologias ágeis com Trello, e aptidão em controle de versionamento com GitHub.<br>
-Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e Railway</p>
+Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e Railway
+</p>
 <br>
 
 <div align="center">
 
-🔭 <a href="">
+🔭 <a href="https://github.com/anthony-steffen/anthony-steffen">
 <img src="https://img.shields.io/badge/Trabalhando%20em-My%20Finance%20App-blue?style=flat&logo=react&logoColor=white&color=cyan" alt="Trabalhando em My-Finance-App">
 </a>
 <img src="https://devicon-website.vercel.app/api/javascript/original.svg" style="margin-left:5px; width:20px"/>
@@ -19,8 +20,6 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 <img src="https://skillicons.dev/icons?i=github" style="width:20px"/>
 <img src="https://skillicons.dev/icons?i=vite" style="width:20px"/>
 <img src="https://skillicons.dev/icons?i=jest" style="width:20px"/>
-
-</p>
 
 🌱 <a href="#" style="margin-right: 10px;">
 <img src="https://img.shields.io/badge/Atualmente Aprendendo-AWS%20e%20Python-blue?style=flat&logo=amazon-aws&logoColor=white&color=232F3E" alt="Aprendendo AWS e Python">
