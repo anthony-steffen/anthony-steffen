@@ -14,39 +14,29 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 
 <div align="center">
 <img src="https://img.shields.io/badge/Trabalhando%20em-My%20Finance%20App-blue?style=flat&logo=react&logoColor=white&color=cyan" alt="Trabalhando em My-Finance-App">
-<img src="https://devicon-website.vercel.app/api/javascript/original.svg" style="margin-left:5px; width:20px"rel="noopener noreferrer nofollow"/>
-<img src="https://devicon-website.vercel.app/api/react/original.svg" style=" ; width:20px"rel="noopener noreferrer nofollow"/>
-<img src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg" style="width:20px"rel="noopener noreferrer nofollow"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="width: 20px"rel="noopener noreferrer nofollow"/>
-<img src="https://skillicons.dev/icons?i=github" style="width:20px"rel="noopener noreferrer nofollow"/>
-<img src="https://skillicons.dev/icons?i=vite" style="width:20px"rel="noopener noreferrer nofollow"/>
-<img src="https://skillicons.dev/icons?i=jest" style="width:20px"rel="noopener noreferrer nofollow"/>
+  <img src="https://skillicons.dev/icons?i=javascript,react,css,bootstrap,vite,github" style=" ; width:150px ; margin-left:5px"/>
 </div>
-
+<p align="center" style="margin: 10px">
 🌱
 <img src="https://img.shields.io/badge/Atualmente Aprendendo-AWS%20e%20Python-blue?style=flat&logo=amazon-aws&logoColor=white&color=232F3E" alt="Aprendendo AWS e Python">
 
-📫 <a href="mailto:anthony.steffen@outlook.com.br"></a>
+📫 <a href="mailto:anthony.steffen@outlook.com.br" style="margin: 10px"></a>
 <img src="https://img.shields.io/badge/Como entrar em contato-%20Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white&color=0078D4" alt="Como entrar em contato">
 
 </div>
 
-<!-- GITHUB STATUS
-
+<!-- GITHUB STATUS -->
 <div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=anthony-steffen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-steffen&layout=compact&langs_count=10&theme=dark"/>
-<div align="center"><br>
 </div><br>
 
-<div align="center">
-
-<div align="left">
-<h2 align="center"> Tecnologias que trabalho</h2>
+<div>
+  <h2 align="center"> Tecnologias que trabalho</h2>
 </div>
 <table><tr><td valign="top" align="center" width="33%">
 
-### Frontend
+<!-- ### Frontend
 
 <div align="center">
 <img src="https://devicon-website.vercel.app/api/javascript/original.svg"style="margin: 10px ; width:50px"/>
