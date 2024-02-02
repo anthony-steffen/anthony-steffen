@@ -8,11 +8,13 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 </p>
 <br>
 
-<div align="center">
+<!-- <div align="center">
 🔭 <a href="https://github.com/anthony-steffen/my-finance-app">
 <img src="https://img.shields.io/badge/Trabalhando%20em-My%20Finance%20App-blue?style=flat&logo=react&logoColor=white&color=cyan" alt="Trabalhando em My-Finance-App">
-</a>
+</a> -->
+ <div>
   <img src="https://skillicons.dev/icons?i=javascript,react,css,bootstrap,vite,github" style=" ; width:150px ; margin-left:5px"/>
+</div>
 
 <p align="center" style="margin: 10px">
 🌱 <img src="https://img.shields.io/badge/Atualmente Aprendendo-AWS%20e%20Python-blue?style=flat&logo=amazon-aws&logoColor=white&color=232F3E" alt="Aprendendo AWS e Python">
@@ -21,15 +23,15 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 <img src="https://img.shields.io/badge/Como entrar em contato-%20Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white&color=0078D4" alt="Como entrar em contato">
 </a>
 
-</div>
+</div> -->
 
 <!-- GITHUB STATUS -->
-<div align="center">
+<!-- <div align="center"> -->
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=anthony-steffen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-steffen&layout=compact&langs_count=10&theme=dark"/>
 </div><br>
 
-<div>
+<!-- <div> -->
   <h2 align="center"> Tecnologias que trabalho</h2>
 </div>
 <table><tr><td valign="top" align="center" width="33%">
