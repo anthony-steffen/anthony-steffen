@@ -8,7 +8,7 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 </p>
 <br>
 
-<div align="center">
+<div align="center" style="pointer-events: none">
 
 🔭 <a href="https://github.com/anthony-steffen/anthony-steffen">
 <img src="https://img.shields.io/badge/Trabalhando%20em-My%20Finance%20App-blue?style=flat&logo=react&logoColor=white&color=cyan" alt="Trabalhando em My-Finance-App">
@@ -29,7 +29,7 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 <img src="https://img.shields.io/badge/Como entrar em contato-%20Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white&color=0078D4" alt="Como entrar em contato">
 </a>
 
-  </div>
+</div>
 
 <!-- GITHUB STATUS -->
 <div align="center">
@@ -47,7 +47,7 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 
 ### Frontend
 
-<div align="center">  
+<div align="center" style="pointer-events: none;">  
 <p align="center">
 <img src="https://devicon-website.vercel.app/api/javascript/original.svg"style="margin: 10px ; width:50px"/>
 <img src="https://devicon-website.vercel.app/api/typescript/original.svg"style="margin: 10px ; width:50px"/>
@@ -67,7 +67,7 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 
 ### Backend
 
-<div align="center">  
+<div align="center" style="pointer-events: none">  
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" style="width: 50px ; margin: 10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width: 50px ; margin: 10px"/>
