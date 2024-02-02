@@ -95,64 +95,13 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 <div align="left">
 <h2 align="center"> Conecte-se comigo</h2>
 </div>
+<div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_anthony.steffen_)
 [![Linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-steffen-dev/)
 [![Twiter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/4nth0ny_Steffen)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anthony-steffen)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anthony.steffen/)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584991423988&text=Ol%C3%A1%2C%20Anthony%20Steffen%20!)
-
-<style>
-  img[alt=GitHub] {
-    height: 26px;
-    width: 100px;
-    border-radius: 5px;
-  }
-</style>
-
-<style>
-  img[alt=Facebook] {
-    height: 25px;
-    width: 100px;
-    border-radius: 5px;
-  }
-</style>
-
-<style>
-  img[alt=Whatsapp] {
-    height: 25px;
-    width: 100px;
-    border-radius: 5px;
-  }
-</style>
-
-<style>
-  img[alt=Instagram] {
-    height: 30px;
-    width: 100px;
-    border-radius: 5px;
-  }
-</style>
-
-<style>
-  img[alt=Linkeding] {
-    height: 30px;
-    width: 100px;
-    border-radius: 5px;
-  }
-</style>
-
-<style>
-  img[alt=Twiter] {
-    height: 30px;
-    width: 100px;
-    border-radius: 5px;
-  }
-</style>
-
-<!-- [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anthony.steffen@outlook.com.br)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonysteffen.developer@gmail.com) -->
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anthony-steffen)
 
 </div>
