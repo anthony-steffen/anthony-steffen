@@ -11,6 +11,7 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 - 🔭 <a href= "https://github.com/anthony-steffen/my-finance-app">
   <img src= "https://img.shields.io/badge/Atualmente%20trabalhando%20em:-My%20Finance%20App-blue?style=flat&logo=react&logoColor=white&color=cyan" alt="Trabalhando em:">
   </a>
+
   <img src="../anthony-steffen/assets/Vercel.png" style=" ; width:20px ; margin-left:5px"/>
 
   <img src="../anthony-steffen/assets/react-color.svg" style=" ; width:20px ; margin-left:5px"/>
