@@ -8,25 +8,28 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 </p>
 <br>
 
-<!-- <div align="center">
-🔭 <a href="https://github.com/anthony-steffen/my-finance-app">
-<img src="https://img.shields.io/badge/Trabalhando%20em-My%20Finance%20App-blue?style=flat&logo=react&logoColor=white&color=cyan" alt="Trabalhando em My-Finance-App">
-</a> -->
- <div>
-  <img src="https://skillicons.dev/icons?i=javascript,react,css,bootstrap,vite,github" style=" ; width:150px ; margin-left:5px"/>
-</div>
+- 🔭 <a href= "https://github.com/anthony-steffen/my-finance-app">
+  <img src= "https://img.shields.io/badge/Atualmente%20trabalhando%20em:-My%20Finance%20App-blue?style=flat&logo=react&logoColor=white&color=cyan" alt="Trabalhando em:">
+  </a>
+  <img src="../anthony-steffen/assets/JavaScript.svg" style=" ; width:20px ; margin-left:5px"/>
+  <img src="../anthony-steffen/assets/react-color.svg" style=" ; width:20px ; margin-left:5px"/>
+  <img src="../anthony-steffen/assets/reactrouter-color.svg" style=" ; width:20px ; margin-left:5px"/>
+  <img src="../anthony-steffen/assets/reacthookform-color.svg" style=" ; width:20px ; margin-left:5px"/>
+  <img src="../anthony-steffen/assets/Vite-Dark.svg" style=" ; width:20px ; margin-left:5px"/>
+  <img src="../anthony-steffen/assets/bootstrap-color.svg" style=" ; width:20px ; margin-left:5px"/>
+  <img src="../anthony-steffen/assets/css3-color.svg" style=" ; width:20px ; margin-left:5px"/>
+  <img src="../anthony-steffen/assets/html5-color.svg" style=" ; width:20px ; margin-left:5px"/>
+  <img src="../anthony-steffen/assets/github.svg" style=" ; width:20px ; margin-left:5px"/>
 
-<p align="center" style="margin: 10px">
-🌱 <img src="https://img.shields.io/badge/Atualmente Aprendendo-AWS%20e%20Python-blue?style=flat&logo=amazon-aws&logoColor=white&color=232F3E" alt="Aprendendo AWS e Python">
+<!-- <img src="https://skillicons.dev/icons?i=javascript,react,css,bootstrap,vite,github" style=" ; width:150px ; margin-left:5px"/> -->
 
-📫 <a href="mailto:anthony.steffen@outlook.com.br" style="margin: 0px">
-<img src="https://img.shields.io/badge/Como entrar em contato-%20Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white&color=0078D4" alt="Como entrar em contato">
-</a>
+- 🌱 <img src="https://img.shields.io/badge/Atualmente Aprendendo-AWS%20e%20Python-blue?style=flat&logo=amazon-aws&logoColor=white&color=232F3E" alt="Aprendendo AWS e Python">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello Icon" width="50">
+- 📫 <a href="mailto:anthony.steffen@outlook.com.br" style="margin: 0px">
+  <img src="https://img.shields.io/badge/Como entrar em contato-%20Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white&color=0078D4" alt="Como entrar em contato">
+  </a>
 
 </div> -->
-
 <!-- GITHUB STATUS -->
 <!-- <div align="center"> -->
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=anthony-steffen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
