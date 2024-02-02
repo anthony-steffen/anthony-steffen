@@ -1,22 +1,17 @@
-<!-- <div align="center">
-  <img src='https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/main/assets/Git-Profile.png' alt="Profile Image" align="center" style="max-width: 5%; height: auto;" />
-</div><br> -->
+<h1 align="center" style="margin-top: 1rem"> Bem vindo ao meu perfil.🖐️</h1>
 
-## <div align="center">Bem vindo ao meu perfil.🖐️</div>
-
-<div align="left">
-<p> Me chamo Anthony, sou desenvolvedor web full-stack comprometido, proativo e apaixonado pelo que faço.<br>
+<br>
+<p align="center"> Me chamo Anthony, sou desenvolvedor web full-stack comprometido, proativo e apaixonado pelo que faço.<br>
 Proficiente em tecnologias como JavaScript, MySQL, Docker, React, TypeScript. <br>
-Habilidade na utilização de metodologias ágeis usando Trello, e aptidão em controle de versionamento com GitHub.<br>
-Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub Pages e Railway</p>
-</div>
+Habilidade na utilização de metodologias ágeis com Trello, e aptidão em controle de versionamento com GitHub.<br>
+Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e Railway</p>
 <br>
 
-- 🔭 <a href="">
-  <img src="https://img.shields.io/badge/Trabalhando%20em-My%20Finance%20App-blue?style=flat&logo=react&logoColor=white&color=cyan" alt="Trabalhando em My-Finance-App">
-  </a>
+<div align="center">
 
-<p style="margin-left:25px"> Utilizando:
+🔭 <a href="">
+<img src="https://img.shields.io/badge/Trabalhando%20em-My%20Finance%20App-blue?style=flat&logo=react&logoColor=white&color=cyan" alt="Trabalhando em My-Finance-App">
+</a>
 <img src="https://devicon-website.vercel.app/api/javascript/original.svg" style="margin-left:5px; width:20px"/>
 <img src="https://devicon-website.vercel.app/api/react/original.svg" style=" ; width:20px"/>
 <img src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg" style="width:20px"/>
@@ -24,18 +19,18 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub Pages e
 <img src="https://skillicons.dev/icons?i=github" style="width:20px"/>
 <img src="https://skillicons.dev/icons?i=vite" style="width:20px"/>
 <img src="https://skillicons.dev/icons?i=jest" style="width:20px"/>
+
 </p>
 
-- 🌱 <a href="#" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Atualmente Aprendendo-AWS%20e%20Python-blue?style=flat&logo=amazon-aws&logoColor=white&color=232F3E" alt="Aprendendo AWS e Python">
-  </a>
-- 📫 <a href="mailto:anthony.steffen@outlook.com.br" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Como entrar em contato-%20Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white&color=0078D4" alt="Como entrar em contato">
-  </a>
+🌱 <a href="#" style="margin-right: 10px;">
+<img src="https://img.shields.io/badge/Atualmente Aprendendo-AWS%20e%20Python-blue?style=flat&logo=amazon-aws&logoColor=white&color=232F3E" alt="Aprendendo AWS e Python">
+</a>
 
-## Github Stats
+📫 <a href="mailto:anthony.steffen@outlook.com.br" style="margin-right: 10px;">
+<img src="https://img.shields.io/badge/Como entrar em contato-%20Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white&color=0078D4" alt="Como entrar em contato">
+</a>
 
-<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
+  </div>
 
 <!-- GITHUB STATUS -->
 <div align="center">
@@ -47,11 +42,11 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub Pages e
 <div align="center">
 
 <div align="left">
-<h1> Tecnologias que trabalho  
+<h2 align="center"> Tecnologias que trabalho</h2>
 </div>
 <table><tr><td valign="top" align="center" width="33%">
 
-## Frontend
+### Frontend
 
 <div align="center">  
 <p align="center">
@@ -71,7 +66,7 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub Pages e
 
 </td><td valign="top" align="center" width="33%">
 
-## Backend
+### Backend
 
 <div align="center">  
 <p align="center">
@@ -86,7 +81,7 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub Pages e
 
 </td><td valign="top" align="center" width="33%">
 
-## Outras
+### Outras
 
 <div align="center">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="width: 50px"/>
@@ -98,17 +93,17 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub Pages e
 </td></tr></table>
 
 <div align="left">
-<h1> Conecte-se comigo
+<h2 align="center"> Conecte-se comigo</h2>
 </div>
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anthony.steffen.7/)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584991423988&text=Ol%C3%A1%2C%20Anthony%20Steffen%20!)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_anthony.steffen_)
 [![Linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-steffen-dev/)
 [![Twiter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/4nth0ny_Steffen)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anthony.steffen@outlook.com.br)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonysteffen.developer@gmail.com)
+
+<!-- [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anthony.steffen@outlook.com.br)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonysteffen.developer@gmail.com) -->
 
 </div>
