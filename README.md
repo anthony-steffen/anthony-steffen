@@ -8,11 +8,10 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 </p>
 <br>
 
-<div align="center" style="pointer-events: none">
+<div align="center">
 
-🔭 <a href="https://github.com/anthony-steffen/anthony-steffen">
+🔭 <a href="https://github.com/anthony-steffen/my-finance-app"></a>
 <img src="https://img.shields.io/badge/Trabalhando%20em-My%20Finance%20App-blue?style=flat&logo=react&logoColor=white&color=cyan" alt="Trabalhando em My-Finance-App">
-</a>
 <img src="https://devicon-website.vercel.app/api/javascript/original.svg" style="margin-left:5px; width:20px"/>
 <img src="https://devicon-website.vercel.app/api/react/original.svg" style=" ; width:20px"/>
 <img src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg" style="width:20px"/>
@@ -21,13 +20,11 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 <img src="https://skillicons.dev/icons?i=vite" style="width:20px"/>
 <img src="https://skillicons.dev/icons?i=jest" style="width:20px"/>
 
-🌱 <a href="#" style="margin-right: 10px;">
+🌱 <a href="#" ></a>
 <img src="https://img.shields.io/badge/Atualmente Aprendendo-AWS%20e%20Python-blue?style=flat&logo=amazon-aws&logoColor=white&color=232F3E" alt="Aprendendo AWS e Python">
-</a>
 
-📫 <a href="mailto:anthony.steffen@outlook.com.br" style="margin-right: 10px;">
+📫 <a href="mailto:anthony.steffen@outlook.com.br"></a>
 <img src="https://img.shields.io/badge/Como entrar em contato-%20Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white&color=0078D4" alt="Como entrar em contato">
-</a>
 
 </div>
 
@@ -47,8 +44,7 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 
 ### Frontend
 
-<div align="center" style="pointer-events: none;">  
-<p align="center">
+<div align="center">  
 <img src="https://devicon-website.vercel.app/api/javascript/original.svg"style="margin: 10px ; width:50px"/>
 <img src="https://devicon-website.vercel.app/api/typescript/original.svg"style="margin: 10px ; width:50px"/>
 <img src="https://devicon-website.vercel.app/api/react/original.svg" style="margin: 10px ; width:50px"/>
@@ -60,22 +56,20 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 <img src="https://skillicons.dev/icons?i=github" style="margin: 10px"/>
 <img src="https://skillicons.dev/icons?i=vite" style="margin: 10px"/>
 <img src="https://skillicons.dev/icons?i=jest" style="margin: 10px"/>
-</p>
+
 </div>
 
 </td><td valign="top" align="center" width="33%">
 
 ### Backend
 
-<div align="center" style="pointer-events: none">  
-<p align="center">
+<div align="center">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" style="width: 50px ; margin: 10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width: 50px ; margin: 10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width: 50px ; margin: 10px"/>
 <img src="https://skillicons.dev/icons?i=express"style="margin: 5px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width: 50px ; margin: 10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="width: 50px ; margin: 10px"/>
-</p>
 </div>
 
 </td><td valign="top" align="center" width="33%">
