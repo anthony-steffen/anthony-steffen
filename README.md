@@ -9,19 +9,17 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 <br>
 
 <div align="center">
-
-🔭 <a href="https://github.com/anthony-steffen/my-finance-app"></a>
-
-<div align="center">
+🔭 <a href="https://github.com/anthony-steffen/my-finance-app">
 <img src="https://img.shields.io/badge/Trabalhando%20em-My%20Finance%20App-blue?style=flat&logo=react&logoColor=white&color=cyan" alt="Trabalhando em My-Finance-App">
+</a>
   <img src="https://skillicons.dev/icons?i=javascript,react,css,bootstrap,vite,github" style=" ; width:150px ; margin-left:5px"/>
-</div>
-<p align="center" style="margin: 10px">
-🌱
-<img src="https://img.shields.io/badge/Atualmente Aprendendo-AWS%20e%20Python-blue?style=flat&logo=amazon-aws&logoColor=white&color=232F3E" alt="Aprendendo AWS e Python">
 
-📫 <a href="mailto:anthony.steffen@outlook.com.br" style="margin: 10px"></a>
+<p align="center" style="margin: 10px">
+🌱 <img src="https://img.shields.io/badge/Atualmente Aprendendo-AWS%20e%20Python-blue?style=flat&logo=amazon-aws&logoColor=white&color=232F3E" alt="Aprendendo AWS e Python">
+
+📫 <a href="mailto:anthony.steffen@outlook.com.br" style="margin: 0px">
 <img src="https://img.shields.io/badge/Como entrar em contato-%20Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white&color=0078D4" alt="Como entrar em contato">
+</a>
 
 </div>
 
