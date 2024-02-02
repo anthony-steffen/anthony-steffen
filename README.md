@@ -11,6 +11,8 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 <div align="center">
 
 🔭 <a href="https://github.com/anthony-steffen/my-finance-app"></a>
+
+<div align="center">
 <img src="https://img.shields.io/badge/Trabalhando%20em-My%20Finance%20App-blue?style=flat&logo=react&logoColor=white&color=cyan" alt="Trabalhando em My-Finance-App">
 <img src="https://devicon-website.vercel.app/api/javascript/original.svg" style="margin-left:5px; width:20px"/>
 <img src="https://devicon-website.vercel.app/api/react/original.svg" style=" ; width:20px"/>
@@ -19,6 +21,7 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 <img src="https://skillicons.dev/icons?i=github" style="width:20px"/>
 <img src="https://skillicons.dev/icons?i=vite" style="width:20px"/>
 <img src="https://skillicons.dev/icons?i=jest" style="width:20px"/>
+</div>
 
 🌱
 <img src="https://img.shields.io/badge/Atualmente Aprendendo-AWS%20e%20Python-blue?style=flat&logo=amazon-aws&logoColor=white&color=232F3E" alt="Aprendendo AWS e Python">
