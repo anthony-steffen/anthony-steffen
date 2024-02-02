@@ -8,69 +8,65 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 </p>
 <br>
 
-- 🔭 <a href= "https://github.com/anthony-steffen/my-finance-app">
-  <img src= "https://img.shields.io/badge/Atualmente%20trabalhando%20em:-My%20Finance%20App-blue?style=flat&logo=react&logoColor=white&color=cyan" alt="Trabalhando em:">
-  </a>
+<div align="center">
 
-  <img src="../anthony-steffen/assets/Vercel.png" style=" ; width:20px ; margin-left:5px"/>
+🔭 <a href= "https://github.com/anthony-steffen/my-finance-app">
+<img src= "https://img.shields.io/badge/Atualmente%20trabalhando%20em:-My%20Finance%20App-blue?style=flat&logo=react&logoColor=white&color=cyan" alt="Trabalhando em:">
+</a>
+<img src="../anthony-steffen/assets/react-color.svg" style=" ; width:20px ; margin-left:5px"/>
+<img src="../anthony-steffen/assets/reactrouter-color.svg" style=" ; width:20px ; margin-left:5px"/>
+<img src="../anthony-steffen/assets/reacthookform-color.svg" style=" ; width:20px ; margin-left:5px"/>
+<img src="../anthony-steffen/assets/Vite-Dark.svg" style=" ; width:20px ; margin-left:5px"/>
+<img src="../anthony-steffen/assets/bootstrap-color.svg" style=" ; width:20px ; margin-left:5px"/>
+<img src="../anthony-steffen/assets/css3-color.svg" style=" ; width:20px ; margin-left:5px"/>
+<img src="../anthony-steffen/assets/html5-color.svg" style=" ; width:20px ; margin-left:5px"/>
+<img src="../anthony-steffen/assets/github.svg" style=" ; width:20px ; margin-left:5px"/>
 
-  <img src="../anthony-steffen/assets/react-color.svg" style=" ; width:20px ; margin-left:5px"/>
-  <img src="../anthony-steffen/assets/reactrouter-color.svg" style=" ; width:20px ; margin-left:5px"/>
-  <img src="../anthony-steffen/assets/reacthookform-color.svg" style=" ; width:20px ; margin-left:5px"/>
-  <img src="../anthony-steffen/assets/Vite-Dark.svg" style=" ; width:20px ; margin-left:5px"/>
-  <img src="../anthony-steffen/assets/bootstrap-color.svg" style=" ; width:20px ; margin-left:5px"/>
-  <img src="../anthony-steffen/assets/css3-color.svg" style=" ; width:20px ; margin-left:5px"/>
-  <img src="../anthony-steffen/assets/html5-color.svg" style=" ; width:20px ; margin-left:5px"/>
-  <img src="../anthony-steffen/assets/github.svg" style=" ; width:20px ; margin-left:5px"/>
+🌱 <img src="https://img.shields.io/badge/Atualmente Aprendendo-AWS%20e%20Python-blue?style=flat&logo=amazon-aws&logoColor=white&color=232F3E" alt="Aprendendo AWS e Python">
 
-<!-- <img src="https://skillicons.dev/icons?i=javascript,react,css,bootstrap,vite,github" style=" ; width:150px ; margin-left:5px"/> -->
+📫 <a href="mailto:anthony.steffen@outlook.com.br" style="margin: 0px">
+<img src="https://img.shields.io/badge/Como entrar em contato-%20Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white&color=0078D4" alt="Como entrar em contato">
+</a>
 
-- 🌱 <img src="https://img.shields.io/badge/Atualmente Aprendendo-AWS%20e%20Python-blue?style=flat&logo=amazon-aws&logoColor=white&color=232F3E" alt="Aprendendo AWS e Python">
+</div>
 
-- 📫 <a href="mailto:anthony.steffen@outlook.com.br" style="margin: 0px">
-  <img src="https://img.shields.io/badge/Como entrar em contato-%20Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white&color=0078D4" alt="Como entrar em contato">
-  </a>
-
-</div> -->
 <!-- GITHUB STATUS -->
-<!-- <div align="center"> -->
+<div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=anthony-steffen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-steffen&layout=compact&langs_count=10&theme=dark"/>
 </div><br>
-
-<!-- <div> -->
+<div align="center">
   <h2 align="center"> Tecnologias que trabalho</h2>
-</div>
-<table><tr><td valign="top" align="center" width="33%">
 
-<!-- ### Frontend
+  <table><tr><td valign="top" align="center" width="33%">
+
+### Front-end
 
 <div align="center">
-<img src="https://devicon-website.vercel.app/api/javascript/original.svg"style="margin: 10px ; width:50px"/>
-<img src="https://devicon-website.vercel.app/api/typescript/original.svg"style="margin: 10px ; width:50px"/>
-<img src="https://devicon-website.vercel.app/api/react/original.svg" style="margin: 10px ; width:50px"/>
-<img src="https://devicon-website.vercel.app/api/redux/original.svg" style="margin: 10px ; width:50px"/>
-<img src="https://devicon-website.vercel.app/api/html5/plain-wordmark.svg" style="margin: 10px ; width:50px"/>
-<img src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg" style="margin: 10px ; width:50px"/>
-<img src="https://devicon-website.vercel.app/api/sass/original.svg" style="margin: 10px ; width:50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="width: 60px; margin: 10px"/>
-<img src="https://skillicons.dev/icons?i=github" style="margin: 10px"/>
-<img src="https://skillicons.dev/icons?i=vite" style="margin: 10px"/>
-<img src="https://skillicons.dev/icons?i=jest" style="margin: 10px"/>
-
+  <img src="https://devicon-website.vercel.app/api/javascript/original.svg"style="margin: 10px ; width:50px"/>
+  <img src="https://devicon-website.vercel.app/api/typescript/original.svg"style="margin: 10px ; width:50px"/>
+  <img src="https://devicon-website.vercel.app/api/react/original.svg" style="margin: 10px ; width:50px"/>
+  <img src="https://devicon-website.vercel.app/api/redux/original.svg" style="margin: 10px ; width:50px"/>
+  <img src="https://devicon-website.vercel.app/api/html5/plain-wordmark.svg" style="margin: 10px ; width:50px"/>
+  <img src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg" style="margin: 10px ; width:50px"/>
+  <img src="https://devicon-website.vercel.app/api/sass/original.svg" style="margin: 10px ; width:50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="width: 60px; margin: 10px"/>
+  <img src="https://skillicons.dev/icons?i=github" style="margin: 10px"/>
+  <img src="https://skillicons.dev/icons?i=vite" style="margin: 10px"/>
+  <img src="https://skillicons.dev/icons?i=jest" style="margin: 10px"/>
 </div>
 
 </td><td valign="top" align="center" width="33%">
 
-### Backend
+### Back-end
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" style="width: 50px ; margin: 10px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width: 50px ; margin: 10px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width: 50px ; margin: 10px"/>
-<img src="https://skillicons.dev/icons?i=express"style="margin: 5px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width: 50px ; margin: 10px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="width: 50px ; margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" style="width: 50px ; margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width: 50px ; margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width: 50px ; margin: 10px"/>
+  <img src="https://skillicons.dev/icons?i=express"style="margin: 5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width: 50px ; margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="width: 50px ; margin: 10px"/>
 </div>
 
 </td><td valign="top" align="center" width="33%">
@@ -78,17 +74,19 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 ### Outras
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="width: 50px"/>
-<a href="https://www.linux.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-<img src="https://github.com/anthony-steffen/anthony-steffen/blob/main/assets/Vercel.png?raw=true" style="width: 80px ; margin: 10px">
-<a href="https://github.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" style="width: 80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="width: 50px"/>
+  <a href="https://www.linux.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+  <img src="https://github.com/anthony-steffen/anthony-steffen/blob/main/assets/Vercel.png?raw=true" style="width: 80px ; margin: 10px">
+  <a href="https://github.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" style="width: 80px"/>
 </div>
 </td></tr></table>
-
-<div align="left">
-<h2 align="center"> Conecte-se comigo</h2>
 </div>
+
+<div align="center">
+
+### Outras Conecte-se comigo
+
 <div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_anthony.steffen_)
@@ -98,4 +96,4 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584991423988&text=Ol%C3%A1%2C%20Anthony%20Steffen%20!)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anthony-steffen)
 
-</div> -->
+</div>
