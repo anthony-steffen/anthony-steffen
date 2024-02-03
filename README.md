@@ -14,7 +14,9 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 <img src= "https://img.shields.io/badge/Atualmente%20trabalhando%20em:-My%20Finance%20App-blue?style=flat&logo=react&logoColor=white&color=cyan" alt="Trabalhando em:">
 </a>
 
-![../anthony-steffen/assets/react-color.svg](https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/27b25bb1a5164c2e5b7df4c04774a12e7ce6aaf2/assets/AWS-Dark.svg)
+![../anthony-steffen/assets/react-color.svg](https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/d903bb1542e759c5eb4dd81f3a92b0d95852fcbc/assets/React-Dark.svg){:width="20px" height="50px"}
+
+<img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/d903bb1542e759c5eb4dd81f3a92b0d95852fcbc/assets/React-Dark.svg" alt="Descrição do Ícone" width="50" height="50">
 
 <img src="../anthony-steffen/assets/react-color.svg" style=" ; width:20px ; margin-left:5px"/>
 <img src="../anthony-steffen/assets/reactrouter-color.svg" style=" ; width:20px ; margin-left:5px"/>
