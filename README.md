@@ -50,19 +50,19 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 ### Front-end
 
 <div align="center">
-  <img src="https://devicon-website.vercel.app/api/javascript/original.svg"style="margin: 10px ; width:50px"/>
-  <img src="https://devicon-website.vercel.app/api/typescript/original.svg"style="margin: 10px ; width:50px"/>
-  <img src="https://devicon-website.vercel.app/api/react/original.svg" style="margin: 10px ; width:50px"/>
-  <img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/bc753791c753ee52838ea7cc59e648bcf3b22ac3/assets/reactrouter-color.svg" style="margin: 10px" alt="React-Router" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/9c23fc27a580485c72bb58c5d957ff02a716c8e4/assets/reacthookform-color.svg" style="margin: 10px" alt="React-Form" width="50" height="50"/>
-  <img src="https://devicon-website.vercel.app/api/redux/original.svg" style="margin: 10px ; width:50px"/>
+  <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="50" height="50" style="margin: 10px"/>
+  <img src="https://devicon-website.vercel.app/api/typescript/original.svg" width="50" height="50" style="margin: 10px"/>
+  <img src="https://devicon-website.vercel.app/api/react/original.svg" width="50" height="50" style="margin: 10px"/>
+  <img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/bc753791c753ee52838ea7cc59e648bcf3b22ac3/assets/reactrouter-color.svg" width="50" height="50" style="margin: 10px"/>
+  <img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/9c23fc27a580485c72bb58c5d957ff02a716c8e4/assets/reacthookform-color.svg" width="50" height="50" style="margin: 10px"/>
+  <img src="https://devicon-website.vercel.app/api/redux/original.svg" width="50" height="50" style="margin: 10px"/>
   <img src="https://devicon-website.vercel.app/api/html5/plain-wordmark.svg" style="margin: 10px ; width:50px"/>
-  <img src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg" style="margin: 10px ; width:50px"/>
-  <img src="https://devicon-website.vercel.app/api/sass/original.svg" style="margin: 10px ; width:50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="width: 60px; margin: 10px"/>
-  <img src="https://skillicons.dev/icons?i=github" style="margin: 10px"/>
-  <img src="https://skillicons.dev/icons?i=vite" style="margin: 10px"/>
-  <img src="https://skillicons.dev/icons?i=jest" style="margin: 10px"/>
+  <img src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg" width="50" height="50" style="margin: 10px"/>
+  <img src="https://devicon-website.vercel.app/api/sass/original.svg" width="50" height="50" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" style="margin: 10px"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" style="margin: 10px"/>
+  <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" style="margin: 10px"/>
+  <img src="https://skillicons.dev/icons?i=jest" width="50" height="50" style="margin: 10px"/>
 </div>
 
 </td><td valign="top" align="center" width="33%">
