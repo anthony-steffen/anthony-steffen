@@ -14,9 +14,16 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 <img src= "https://img.shields.io/badge/Atualmente%20trabalhando%20em:-My%20Finance%20App-blue?style=flat&logo=react&logoColor=white&color=cyan" alt="Trabalhando em:">
 </a>
 
-![../anthony-steffen/assets/react-color.svg](https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/d903bb1542e759c5eb4dd81f3a92b0d95852fcbc/assets/React-Dark.svg){:width="20px" height="50px"}
+<img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/d903bb1542e759c5eb4dd81f3a92b0d95852fcbc/assets/React-Dark.svg" alt="Descrição do Ícone" width="30" height="30"/>
 
-<img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/d903bb1542e759c5eb4dd81f3a92b0d95852fcbc/assets/React-Dark.svg" alt="Descrição do Ícone" width="50" height="50">
+<img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/bc753791c753ee52838ea7cc59e648bcf3b22ac3/assets/reactrouter-color.svg" alt="Descrição do Ícone" width="30" height="30"/>
+
+![Descrição do Ícone](https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/d903bb1542e759c5eb4dd81f3a92b0d95852fcbc/assets/React-Dark.svg)
+Nome do Ícone
+
+<img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/" alt="Descrição do Ícone" width="30" height="30"/>
+
+<img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/" alt="Descrição do Ícone" width="30" height="30"/>
 
 <img src="../anthony-steffen/assets/react-color.svg" style=" ; width:20px ; margin-left:5px"/>
 <img src="../anthony-steffen/assets/reactrouter-color.svg" style=" ; width:20px ; margin-left:5px"/>
