@@ -10,34 +10,23 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 
 <div align="center">
 
-🔭 <a href= "https://github.com/anthony-steffen/my-finance-app">
-<img src= "https://img.shields.io/badge/Atualmente%20trabalhando%20em:-My%20Finance%20App-blue?style=flat&logo=react&logoColor=white&color=cyan" alt="Trabalhando em:">
+🔭 <a href= "https://github.com/anthony-steffen/my-finance-app" style="margin-right:5px">
+<img src= "https://img.shields.io/badge/Atualmente%20Desenvolvendo:-My%20Finance%20App-blue?style=flat&logo=react&logoColor=white&color=cyan" alt="Trabalhando em:">
 </a>
-
-<img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/d903bb1542e759c5eb4dd81f3a92b0d95852fcbc/assets/React-Dark.svg" alt="Descrição do Ícone" width="30" height="30"/>
-
-<img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/bc753791c753ee52838ea7cc59e648bcf3b22ac3/assets/reactrouter-color.svg" alt="Descrição do Ícone" width="30" height="30"/>
-
-![Descrição do Ícone](https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/d903bb1542e759c5eb4dd81f3a92b0d95852fcbc/assets/React-Dark.svg)
-Nome do Ícone
-
-<img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/" alt="Descrição do Ícone" width="30" height="30"/>
-
-<img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/" alt="Descrição do Ícone" width="30" height="30"/>
-
-<img src="../anthony-steffen/assets/react-color.svg" style=" ; width:20px ; margin-left:5px"/>
-<img src="../anthony-steffen/assets/reactrouter-color.svg" style=" ; width:20px ; margin-left:5px"/>
-<img src="../anthony-steffen/assets/reacthookform-color.svg" style=" ; width:20px ; margin-left:5px"/>
-<img src="../anthony-steffen/assets/Vite-Dark.svg" style=" ; width:20px ; margin-left:5px"/>
-<img src="../anthony-steffen/assets/bootstrap-color.svg" style=" ; width:20px ; margin-left:5px"/>
-<img src="../anthony-steffen/assets/css3-color.svg" style=" ; width:20px ; margin-left:5px"/>
-<img src="../anthony-steffen/assets/html5-color.svg" style=" ; width:20px ; margin-left:5px"/>
-<img src="../anthony-steffen/assets/github.svg" style=" ; width:20px ; margin-left:5px"/>
+<img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/d903bb1542e759c5eb4dd81f3a92b0d95852fcbc/assets/React-Dark.svg" alt="React" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/bc753791c753ee52838ea7cc59e648bcf3b22ac3/assets/reactrouter-color.svg" alt="React-Router" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/9c23fc27a580485c72bb58c5d957ff02a716c8e4/assets/reacthookform-color.svg" alt="React-Form" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/9c23fc27a580485c72bb58c5d957ff02a716c8e4/assets/Vite-Dark.svg" alt="Vite" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/9c23fc27a580485c72bb58c5d957ff02a716c8e4/assets/bootstrap-color.svg" alt="bootstrap" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/9c23fc27a580485c72bb58c5d957ff02a716c8e4/assets/css3-color.svg" alt="CSS" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/9c23fc27a580485c72bb58c5d957ff02a716c8e4/assets/html5-color.svg" alt="html5" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/9c23fc27a580485c72bb58c5d957ff02a716c8e4/assets/github.svg" alt="github" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/9c23fc27a580485c72bb58c5d957ff02a716c8e4/assets/Vercel-Dark.svg" alt="github" width="30" height="30"/>
 
 🌱 <img src="https://img.shields.io/badge/Atualmente Aprendendo-AWS%20e%20Python-blue?style=flat&logo=amazon-aws&logoColor=white&color=232F3E" alt="Aprendendo AWS e Python">
 
 📫 <a href="mailto:anthony.steffen@outlook.com.br" style="margin: 0px">
-<img src="https://img.shields.io/badge/Como entrar em contato-%20Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white&color=0078D4" alt="Como entrar em contato">
+<img src="https://img.shields.io/badge/contato-%20Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white&color=0078D4" alt="Como entrar em contato">
 </a>
 
 </div>
