@@ -9,7 +9,7 @@
 
 <p align="center" style="font-weight: 600"> Sou desenvolvedor web full-stack comprometido, proativo e apaixonado pelo que faço.<br>
 Busco constantemente aprimorar meus conhecimentos, visando oferecer soluções mais sofisticadas e inteligentes, capazes de atender de maneira eficiente às demandas que me são solicitadas.
-Proficiente em tecnologias como JavaScript, MySQL, Docker, React, TypeScript, entre outras. <br>
+Proficiente em tecnologias como JavaScript, MySQL, Docker, React, TypeScript. <br>
 Habilidade na utilização de metodologias ágeis com Trello e aptidão em controle de versão com GitHub.<br>
 Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e Railway
 </p>
