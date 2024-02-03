@@ -47,6 +47,8 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
   <img src="https://devicon-website.vercel.app/api/javascript/original.svg"style="margin: 10px ; width:50px"/>
   <img src="https://devicon-website.vercel.app/api/typescript/original.svg"style="margin: 10px ; width:50px"/>
   <img src="https://devicon-website.vercel.app/api/react/original.svg" style="margin: 10px ; width:50px"/>
+  <img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/bc753791c753ee52838ea7cc59e648bcf3b22ac3/assets/reactrouter-color.svg" alt="React-Router" width="50" height="70"/>
+  <img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/9c23fc27a580485c72bb58c5d957ff02a716c8e4/assets/reacthookform-color.svg" alt="React-Form" width="50" height="70"/>
   <img src="https://devicon-website.vercel.app/api/redux/original.svg" style="margin: 10px ; width:50px"/>
   <img src="https://devicon-website.vercel.app/api/html5/plain-wordmark.svg" style="margin: 10px ; width:50px"/>
   <img src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg" style="margin: 10px ; width:50px"/>
@@ -68,6 +70,9 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
   <img src="https://skillicons.dev/icons?i=express"style="margin: 5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width: 50px ; margin: 10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="width: 50px ; margin: 10px"/>
+
+<img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/e4ef25bb44b8897ac9f212b70e76e77251c5ed1f/assets/mocha-color.svg" alt="Mocha" width="50" height="50"/>
+
 </div>
 
 </td><td valign="top" align="center" width="33%">
@@ -77,7 +82,7 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="width: 50px"/>
   <a href="https://www.linux.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-  <img src="https://github.com/anthony-steffen/anthony-steffen/blob/main/assets/Vercel.png?raw=true" style="width: 80px ; margin: 10px">
+  <img src="https://github.com/anthony-steffen/anthony-steffen/blob/main/assets/Vercel.png?raw=true" style="width: 70px ; margin: 10px">
   <a href="https://github.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" style="width: 80px"/>
 </div>
