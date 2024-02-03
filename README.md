@@ -13,6 +13,9 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 🔭 <a href= "https://github.com/anthony-steffen/my-finance-app">
 <img src= "https://img.shields.io/badge/Atualmente%20trabalhando%20em:-My%20Finance%20App-blue?style=flat&logo=react&logoColor=white&color=cyan" alt="Trabalhando em:">
 </a>
+
+![../anthony-steffen/assets/react-color.svg](https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/27b25bb1a5164c2e5b7df4c04774a12e7ce6aaf2/assets/AWS-Dark.svg)
+
 <img src="../anthony-steffen/assets/react-color.svg" style=" ; width:20px ; margin-left:5px"/>
 <img src="../anthony-steffen/assets/reactrouter-color.svg" style=" ; width:20px ; margin-left:5px"/>
 <img src="../anthony-steffen/assets/reacthookform-color.svg" style=" ; width:20px ; margin-left:5px"/>
@@ -36,7 +39,7 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-steffen&layout=compact&langs_count=10&theme=dark"/>
 </div><br>
 <div align="center">
-  <h2 align="center"> Tecnologias que trabalho</h2>
+  <h2 align="center"> Tecnologias que Utilizo</h2>
 
   <table><tr><td valign="top" align="center" width="33%">
 
