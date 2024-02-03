@@ -1,9 +1,15 @@
-<h1 align="center" style="margin-top: 1rem"> Bem vindo ao meu perfil.🖐️</h1>
-
 <br>
-<p align="center"> Me chamo Anthony, sou desenvolvedor web full-stack comprometido, proativo e apaixonado pelo que faço.<br>
-Proficiente em tecnologias como JavaScript, MySQL, Docker, React, TypeScript. <br>
-Habilidade na utilização de metodologias ágeis com Trello, e aptidão em controle de versionamento com GitHub.<br>
+<h1 align="center" >
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=4000&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=800&lines=Seja+bem+vindo+ao+meu+Perfil.👋🏽;Sou+Anthony%2C+prazer+em+conhece-lo.🤝🏽" alt="Typing SVG" /></a>
+
+</h1>
+
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anthony-steffen.anthony-steffen" alt="visitor badge"/>
+<h1 align="center"> -->
+
+<p align="center" style="font-weight: 600"> Me chamo Anthony, sou desenvolvedor web full-stack comprometido, proativo e apaixonado peloBusco constantemente aprimorar meus conhecimentos, visando oferecer soluções mais sofisticadas e inteligentes, capazes de atender de maneira eficiente às demandas que me são solicitadas.<br>
+Proficiente em tecnologias como JavaScript, MySQL, Docker, React, TypeScript, entre outras. <br>
+Habilidade na utilização de metodologias ágeis com Trello e aptidão em controle de versão com GitHub.<br>
 Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e Railway
 </p>
 <br>
