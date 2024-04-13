@@ -30,7 +30,8 @@ Deploy com experiência bem-sucedida em plataformas como Vercel , GitHub-Pages e
 <img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/9c23fc27a580485c72bb58c5d957ff02a716c8e4/assets/github.svg" alt="github" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/anthony-steffen/anthony-steffen/9c23fc27a580485c72bb58c5d957ff02a716c8e4/assets/Vercel-Dark.svg" alt="github" width="20" height="20"/>
 
-🌱 <img src="https://img.shields.io/badge/Atualmente aprendendo-AWS%20e%20Python-blue?style=flat&logo=amazon-aws&logoColor=white&color=232F3E" alt="Aprendendo AWS e Python">
+  
+🌱 [![swift](https://img.shields.io/badge/Atualmente%20aprendendo%20-swift-E60012?style=flat&logo=swift&logoColor=white)](https://www.swift.org/)
 
 📫 <a href="mailto:anthony.steffen@outlook.com.br" style="margin: 0px">
 <img src="https://img.shields.io/badge/Contato-%20Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white&color=0078D4" alt="Como entrar em contato">
