@@ -1,5 +1,6 @@
 <h1 align="center">
   Olá, me chamo Anthny👋🏽, Seja bem vindo ao meu perfil. 🤝🏽
+</h1>
 
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anthony-steffen.anthony-steffen" alt="visitor badge"/>
 <h1 align="center"> -->
