@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá, me chamo Anthny. 👋🏽
+  Olá, me chamo Anthony Steffen. 👋🏽
   
   Seja bem vindo ao meu perfil. 🤝🏽
 </h1>
