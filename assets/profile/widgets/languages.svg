@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="190" viewBox="0 0 480 190" role="img" aria-labelledby="title description">
+  <title id="title">Most Used Languages</title>
+  <desc id="description">TypeScript 62,68%, JavaScript 16,02%, Python 15,41%, CSS 2,87% e HTML 1,08%.</desc>
+  <rect x="1" y="1" width="478" height="188" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="20" y="31" fill="#f2cc60" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Most Used Languages</text>
+
+  <clipPath id="bar-clip">
+    <rect x="20" y="49" width="440" height="9" rx="4.5"/>
+  </clipPath>
+  <g clip-path="url(#bar-clip)">
+    <rect x="20" y="49" width="276" height="9" fill="#3178c6"/>
+    <rect x="296" y="49" width="71" height="9" fill="#f1e05a"/>
+    <rect x="367" y="49" width="68" height="9" fill="#3572a5"/>
+    <rect x="435" y="49" width="13" height="9" fill="#663399"/>
+    <rect x="448" y="49" width="5" height="9" fill="#e34c26"/>
+    <rect x="453" y="49" width="7" height="9" fill="#6e7681"/>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="12">
+    <circle cx="26" cy="85" r="5" fill="#3178c6"/>
+    <text x="38" y="89" fill="#c9d1d9">TypeScript</text>
+    <text x="172" y="89" fill="#8b949e" text-anchor="end">62,68%</text>
+
+    <circle cx="268" cy="85" r="5" fill="#f1e05a"/>
+    <text x="280" y="89" fill="#c9d1d9">JavaScript</text>
+    <text x="454" y="89" fill="#8b949e" text-anchor="end">16,02%</text>
+
+    <circle cx="26" cy="116" r="5" fill="#3572a5"/>
+    <text x="38" y="120" fill="#c9d1d9">Python</text>
+    <text x="172" y="120" fill="#8b949e" text-anchor="end">15,41%</text>
+
+    <circle cx="268" cy="116" r="5" fill="#663399"/>
+    <text x="280" y="120" fill="#c9d1d9">CSS</text>
+    <text x="454" y="120" fill="#8b949e" text-anchor="end">2,87%</text>
+
+    <circle cx="26" cy="147" r="5" fill="#e34c26"/>
+    <text x="38" y="151" fill="#c9d1d9">HTML</text>
+    <text x="172" y="151" fill="#8b949e" text-anchor="end">1,08%</text>
+  </g>
+
+  <text x="20" y="174" fill="#6e7681" font-family="Segoe UI, Arial, sans-serif" font-size="10">Distribuição por volume de código nos repositórios públicos</text>
+</svg>

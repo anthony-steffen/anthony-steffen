@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="120" viewBox="0 0 480 120" role="img" aria-labelledby="title description">
+  <title id="title">Task Cash</title>
+  <desc id="description">Repositório público desenvolvido principalmente em TypeScript.</desc>
+  <rect x="1" y="1" width="478" height="118" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <path d="M22 28h15l4 4v20H22z" fill="none" stroke="#58a6ff" stroke-width="2"/><path d="M37 28v6h6" fill="none" stroke="#58a6ff" stroke-width="2"/>
+  <text x="54" y="36" fill="#58a6ff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Task Cash</text>
+  <text x="22" y="67" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="13">Projeto público em TypeScript</text>
+  <circle cx="27" cy="94" r="5" fill="#3178c6"/>
+  <text x="39" y="98" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="12">TypeScript</text>
+  <text x="458" y="98" fill="#58a6ff" font-family="Segoe UI, Arial, sans-serif" font-size="12" text-anchor="end">Ver repositório →</text>
+</svg>
