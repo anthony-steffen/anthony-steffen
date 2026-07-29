@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="https://github.com/anthony-steffen/IgniteGym">
+<a href="https://ignitegym-front-end-production.up.railway.app/login">
   <img
     src="./assets/profile/about-ignitegym.png"
     width="100%"
@@ -43,7 +43,8 @@
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=anthony-steffen&hide_border=false&border=30363D&background=0D1117&ring=1597FF&fire=914CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=F4F7FB&sideNums=F4F7FB&dates=8B949E&locale=pt_BR"
+    width="82%"
+    src="./assets/profile/widgets/streak.svg"
     alt="Sequência de contribuições de Anthony Steffen"
   />
 </div>
@@ -58,49 +59,54 @@
 
 ## ⭐ Projetos
 
-<div align="center">
-  <a href="https://github.com/anthony-steffen/IgniteGym">
-    <img
-      width="49%"
-      src="./assets/profile/widgets/ignitegym.svg"
-      alt="Repositório IgniteGym"
-    />
-  </a>
-  <a href="https://github.com/anthony-steffen/sentinel">
-    <img
-      width="49%"
-      src="./assets/profile/widgets/sentinel.svg"
-      alt="Repositório Sentinel"
-    />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/anthony-steffen/industrial-ai-supervisor">
-    <img
-      width="49%"
-      src="./assets/profile/widgets/industrial-ai-supervisor.svg"
-      alt="Repositório Industrial AI Supervisor"
-    />
-  </a>
-  <a href="https://github.com/anthony-steffen/Task_Cash">
-    <img
-      width="49%"
-      src="./assets/profile/widgets/task-cash.svg"
-      alt="Repositório Task Cash"
-    />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/anthony-steffen/aluga-facil">
-    <img
-      width="49%"
-      src="./assets/profile/widgets/aluga-facil.svg"
-      alt="Repositório aluga-facil"
-    />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://ignitegym-front-end-production.up.railway.app/login">
+        <img
+          width="100%"
+          src="./assets/profile/projects/ignitegym.png"
+          alt="Tela real do IgniteGym"
+        />
+      </a>
+      <br>
+      <sub><b>IgniteGym</b><br>Gestão para academias</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/anthony-steffen/sentinel">
+        <img
+          width="100%"
+          src="./assets/profile/projects/sentinel.png"
+          alt="Tela real do Sentinel"
+        />
+      </a>
+      <br>
+      <sub><b>Sentinel</b><br>Monitoramento antifraude</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/anthony-steffen/industrial-ai-supervisor">
+        <img
+          width="100%"
+          src="./assets/profile/projects/industrial-ai-supervisor.png"
+          alt="Tela real do Industrial AI Supervisor"
+        />
+      </a>
+      <br>
+      <sub><b>Industrial AI Supervisor</b><br>Diagnóstico operacional</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/anthony-steffen/Task_Cash">
+        <img
+          width="100%"
+          src="./assets/profile/projects/task-cash.png"
+          alt="Tela real do Task Cash"
+        />
+      </a>
+      <br>
+      <sub><b>Task_Cash</b><br>Tarefas e recompensas</sub>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://github.com/anthony-steffen?tab=repositories">
